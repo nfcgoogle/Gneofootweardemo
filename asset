@@ -1,1 +1,20 @@
+# Gneo Footwear Website
+
+Website katalog premium responsif untuk Gneo Footwear.
+
+## File
+- `index.html` — halaman utama
+- `css/style.css` — desain responsif
+- `js/main.js` — navigasi mobile dan tahun footer
+- `assets/logo-gneo.jpg` — logo yang diberikan pemilik
+
+## Sebelum dipublikasikan
+1. Periksa semua foto produk. Foto eksternal saat ini adalah gambar contoh dan memerlukan koneksi internet.
+2. Ganti foto contoh dengan foto produk resmi Gneo Footwear.
+3. Isi harga, ukuran, warna, ketersediaan, kebijakan pembelian, dan informasi material berdasarkan data sebenarnya.
+4. Uji tautan WhatsApp `https://wa.me/6285640610819`.
+5. Unggah seluruh folder ke repository GitHub dan aktifkan GitHub Pages dari Settings > Pages.
+
+## Catatan
+Website versi ini menggunakan HTML, CSS, dan JavaScript statis. Checkout dan pembayaran otomatis belum termasuk.
 
